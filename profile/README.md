@@ -1,8 +1,11 @@
 ## Hello there
 
 We are srdp-hub, creators of SRDP, the Serendipitous Composable Data Platform.
+
 Independent modules, open standards, one cohesive network.
+
 A composable data stack on lake house architecture, orchestrated with Kubernetes.
+
 Any data. Anywhere.
 
 <!--
